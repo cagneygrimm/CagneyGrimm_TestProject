@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CagneyGrimm_TestProject": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "workingDirectory": "C:\\Users\\cagni\\source\\repos\\CagneyGrimm_TestProject"
+    }
+  }
+}

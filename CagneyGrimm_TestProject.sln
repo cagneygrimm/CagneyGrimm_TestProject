@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CagneyGrimm_TestProject", "CagneyGrimm_TestProject\CagneyGrimm_TestProject.csproj", "{ECC03028-FE74-483F-A096-975A78AE32EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{16B40D0E-F614-498A-B9A0-0E3C3928777C}"
+	ProjectSection(SolutionItems) = preProject
+		Program1.cs = Program1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC03028-FE74-483F-A096-975A78AE32EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC03028-FE74-483F-A096-975A78AE32EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC03028-FE74-483F-A096-975A78AE32EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC03028-FE74-483F-A096-975A78AE32EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9156AE1F-C4DE-4BEE-845A-2FC2F3995759}
+	EndGlobalSection
+EndGlobal
